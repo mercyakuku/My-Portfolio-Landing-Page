@@ -21,3 +21,36 @@
 .carousel-item p{
     color: #000;
 }
+
+#about{
+   padding: 5%; 
+}
+
+#about h5{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: xx-large;
+}
+
+body{
+     background-color: aliceblue;
+}
+
+#footer .section-a{
+   background-color: #000;
+   padding: 4%;
+}
+
+.section-a i{
+  background-color: rgb(215, 218, 250);
+  color: rgb(5, 45, 80);
+  padding: 1%;
+  margin: 1%;
+  border-radius: 100px;
+}
+
+.section-b p{
+    text-transform: uppercase;
+    text-align: center;
+}
